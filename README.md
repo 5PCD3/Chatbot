@@ -11,8 +11,8 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/5PCD3/Chatbot.git
+cd Chatbot
 ```
 
 2. Install the required dependencies:
