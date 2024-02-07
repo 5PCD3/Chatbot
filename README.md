@@ -44,7 +44,7 @@ streamlit run app.py
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.10 or above
 - Streamlit
 - Google's Generative AI Python package
 - dotenv
