@@ -1,4 +1,3 @@
-Certainly! Here's the provided content formatted in Markdown code blocks for the `readme.md` file:
 
 ```markdown
 # Q&A Chatbot with Streamlit
